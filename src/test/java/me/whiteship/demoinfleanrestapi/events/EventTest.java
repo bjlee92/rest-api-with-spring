@@ -17,7 +17,7 @@ public class EventTest {
     }
 
     @Test
-    public void javaBena() {
+    public void javaBean() {
         // Given
         String name = "Event";
         String description = "Spring";
