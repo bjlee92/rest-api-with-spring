@@ -1,0 +1,59 @@
+[33mcommit 4b45874185811fae0c08fa82ae1a9ba3ce0b2a70[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Tue Jul 2 00:55:52 2019 +0900
+
+    Apply Spring HATEOAS
+
+[33mcommit a553559a57f86765d45c6d60b3b3ee212c069a09[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Tue Jul 2 00:10:10 2019 +0900
+
+    JunitParameters for Test
+
+[33mcommit 7302216fbe0081b81c0ebe5724909c68eeffb613[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 23:31:51 2019 +0900
+
+    Body for BadRequest
+
+[33mcommit 8f3583b225de664dd8903ba6a4ed37a8732b9afb[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 22:39:07 2019 +0900
+
+    Add test description annotation
+
+[33mcommit 083874faa1be865179284cfb55a5148098327952[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 18:48:39 2019 +0900
+
+    validate wrong data
+
+[33mcommit 64402a5c9a825226676cb09b45ce952e53b7f904[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 17:18:30 2019 +0900
+
+    DTO validation
+
+[33mcommit 739df57635c458de8a7d4a56bc16c0826bef1a08[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 15:45:47 2019 +0900
+
+    fail on unkown properties
+
+[33mcommit 28817cbdc70b3e3285ab32fdd106d7e411a89fff[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 15:35:47 2019 +0900
+
+    Ristrict input for POST /api/events
+
+[33mcommit 6e99a958d08eee7e1806402c42dece9bbdb1099b[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 14:45:15 2019 +0900
+
+    polishing
+
+[33mcommit 7946ec3b13bb92ea3e7c558e5826a8ee80032543[m
+Author: bjlee92 <46098898+bjlee92@users.noreply.github.com>
+Date:   Mon Jul 1 14:33:02 2019 +0900
+
+    Initial commit
